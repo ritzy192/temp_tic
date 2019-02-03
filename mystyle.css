@@ -1,0 +1,18 @@
+.play { 
+    background-color: yellow;
+    width: 2rem;
+    height: 2rem;
+  }
+  body{
+      background-color: black;
+  }
+  #playArea {
+    margin-left:auto; 
+    margin-right:auto;
+    margin-top:10rem;
+    margin-bottom:auto;
+  }
+  h2{
+      color: chartreuse;
+      text-align: center;
+  }
